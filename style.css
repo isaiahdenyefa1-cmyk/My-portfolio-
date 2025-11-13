@@ -459,7 +459,7 @@ li{
 .resume-content h3 {
   color: #333;
   margin-bottom: 10px;
-  color: rgba(255, 255, 0, 1);
+  color: #ffff00;
 }
 
 .resume-content ul {
